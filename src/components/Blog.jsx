@@ -5,17 +5,17 @@ const Blog = () => {
         {
             id: 1,
             title: "Creating Streamlined safeguarding Processes with One",
-            image: "/src/assets/logo/logo7.jpg"
+            image: "assets/logo/logo7.jpg"
         },
         {
             id: 2,
             title: "What are you safeguarding responsabilities and how can you manage them?",
-            image: "/src/assets/logo/logo8.jpg"
+            image: "assets/logo/logo8.jpg"
         },
         {
             id: 3,
             title: "Revamping the Memberships Model with Triathlon Australia",
-            image: "/src/assets/logo/logo9.jpg"
+            image: "assets/logo/logo9.jpg"
         }
     ]
     return (
