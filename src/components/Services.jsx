@@ -13,13 +13,13 @@ const Services = () => {
                 <p className='text-neutralDGrey'>We ahve been working with some fortune 500+ clients</p>
                 {/* Company logos */}
                 <div className='my-12 flex flex-wrap justify-between items-center gap-4'>
-                    <img src="/src/assets/logo/logo1.jpg" alt="" className='w-20 h-20'/>
-                    <img src="/src/assets/logo/logo2.png" alt=""  className='w-20 h-20'/>
-                    <img src="/src/assets/logo/logo3.jpg" alt=""  className='w-20 h-20'/>
-                    <img src="/src/assets/logo/logo4.png" alt=""  className='w-20 h-20'/>
-                    <img src="/src/assets/logo/logo11.jpg" alt=""  className='w-20 h-20'/>
-                    <img src="/src/assets/logo/logo1.jpg" alt=""  className='w-20 h-20'/>
-                    <img src="/src/assets/logo/logo2.png" alt=""  className='w-20 h-20'/>
+                    <img src="/assets/logo/logo1.jpg" alt="" className='w-20 h-20'/>
+                    <img src="/assets/logo/logo2.png" alt=""  className='w-20 h-20'/>
+                    <img src="/assets/logo/logo3.jpg" alt=""  className='w-20 h-20'/>
+                    <img src="/assets/logo/logo4.png" alt=""  className='w-20 h-20'/>
+                    <img src="/assets/logo/logo11.jpg" alt=""  className='w-20 h-20'/>
+                    <img src="/assets/logo/logo1.jpg" alt=""  className='w-20 h-20'/>
+                    <img src="/assets/logo/logo2.png" alt=""  className='w-20 h-20'/>
                 </div>
             </div>
 
