@@ -1,0 +1,17 @@
+@font-face{
+  font-family: 'JosefinSans';
+  src: url('assets/fonts/JosefinSans-Medium.ttf');
+}
+
+body{
+  font-family: 'JosefinSans', sans-serif;
+}
+
+header{
+  z-index: 1000 !important;
+}
+
+
+/* .btn-primary{
+  @apply px-7 py-2 bg-brandPrimary text-white rounded hover: bg-neutralDGrey transition-all duration-300 hover:-translate-y-4;
+} */
