@@ -44,12 +44,12 @@ const Product = () => {
                             <p className='text-base text-neutralGrey mb-8'>British Dragon Boat Racing Association</p>
                             <div>
                                 <div className='flex items-center gap-7 flex-wrap'>
-                                    <img src="/src/assets/logo/logo10.jpg" alt="" className='w-12 h-12 cursor-pointer' />
-                                    <img src="/src/assets/logo/logo12.jpg" alt="" className='w-12 h-12 cursor-pointer' />
-                                    <img src="/src/assets/logo/logo13.jpg" alt="" className='w-12 h-12 cursor-pointer' />
-                                    <img src="/src/assets/logo/logo5.jpg" alt="" className='w-12 h-12 cursor-pointer' />
-                                    <img src="/src/assets/logo//logo7.jpg" alt="" className='w-12 h-12 cursor-pointer' />
-                                    <img src="/src/assets/logo/logo6.jpg" alt="" className='w-12 h-12 cursor-pointer' />
+                                    <img src="/assets/logo/logo10.jpg" alt="" className='w-12 h-12 cursor-pointer' />
+                                    <img src="/assets/logo/logo12.jpg" alt="" className='w-12 h-12 cursor-pointer' />
+                                    <img src="/assets/logo/logo13.jpg" alt="" className='w-12 h-12 cursor-pointer' />
+                                    <img src="/assets/logo/logo5.jpg" alt="" className='w-12 h-12 cursor-pointer' />
+                                    <img src="/assets/logo//logo7.jpg" alt="" className='w-12 h-12 cursor-pointer' />
+                                    <img src="/assets/logo/logo6.jpg" alt="" className='w-12 h-12 cursor-pointer' />
 
                                     <div className='flex items-center gap-8'>
                                         <a href="/" className='font-bold text-brandPrimary hover:text-neutral-700'>Meet all customers{" "} <span>{'-->'}</span></a>
